@@ -19,4 +19,5 @@
 
 # 🥇 GitHub Stats:
 ![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkasingh809&show_icons=true&theme=radical)
+![](https://github-readme-trophy.vercel.app/api?username=anushkasingh809&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
